@@ -1,0 +1,10 @@
+total 60
+drwxrwxr-x 2 devasc devasc  4096 May  5 02:39 backup
+-rw-rw-r-- 1 devasc devasc   354 May  5 01:53 git_log.txt
+-rwxr--r-- 1 devasc devasc   270 May  5 02:29 info_network.py
+-rw-rw-r-- 1 devasc devasc     7 May  5 02:46 issue_summary.txt
+-rw-rw-r-- 1 devasc devasc 30793 May  5 02:49 lab_quiz_MaryNyel.zip
+-rw-rw-r-- 1 devasc devasc     6 May  5 02:28 networking_issue.txt
+-rw-rw-r-- 1 devasc devasc    85 May  5 01:51 networking_notes.txt
+-rw-rw-r-- 1 devasc devasc     0 May  5 02:51 permission.txt
+-rw-rw-r-- 1 devasc devasc    86 May  5 01:37 README.md
