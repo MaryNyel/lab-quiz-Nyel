@@ -1,0 +1,11 @@
+commit bbeed7861eb3a715e855d04e89c9941779ebce2e
+Author: MaryNyel <mc188181@gmail.com>
+Date:   Mon May 5 01:49:53 2025 +0000
+
+    This file is networking_notes.txt with 5 common networking problems
+
+commit 93b0615e7221202f42c0a115856b8f257c8e9d24
+Author: MaryNyel <mc188181@gmail.com>
+Date:   Mon May 5 01:41:19 2025 +0000
+
+    Initial commit with README
